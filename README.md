@@ -1,19 +1,23 @@
 # ***THE FREDBOARD***
   The fredboard is a pi pico devboard that allows to use more pins than a regular Pi pico
+
 ![front of the fredboard](/img/frontpcb.png "boring side of the fredboard")
 ![back of the fredboard](/img/backpcb.png "look at that lizard smiling while riding his long skateboard")
 
 ## **SCHEMATICS**
   Here's the schematic for the pcb, you can see the whole project from /PCB
+
 ![The Schematic for the project](/img/schematic.png "schematic")
 
 ## **THE PCB**
   This is the pcb, front and back (image art can be found on /img/devboard):
+
 ![The pcb](/img/pcb.png "PCB")
 
 
 ## **BOM and Gerber**
   The Bill Of Materials and the Gerber files can be found in the /PCB/production folder, these are the required materials:
+
  - 10 0.1uF 0402 capacitors
  - 2 1uF 0402 capacitors
  - 2 10uF 0603 capacitors
