@@ -1,5 +1,7 @@
 # ***THE FREDBOARD V1/V2***
 fred is the seal
+
+
   The fredboard is a custom pi pico devboard:
   - the v2 has a MPU-6500 and has a reboot button with a led to indicate the restart;
   - the v1 (untested) allows to use all but one pins provided by the rp2040, and has a led to indicate when the devboard is powered
